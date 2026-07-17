@@ -1,0 +1,19 @@
+business_unit,asset_criticality,alert_count,pct_high_or_critical
+Asset Servicing,Tier 1 - Critical,170,22.9
+Asset Servicing,Tier 2 - High,668,26.8
+Asset Servicing,Tier 3 - Standard,1256,22.8
+Corporate Functions,Tier 1 - Critical,284,23.6
+Corporate Functions,Tier 2 - High,346,27.7
+Corporate Functions,Tier 3 - Standard,1387,27.0
+Fund Services,Tier 1 - Critical,193,27.5
+Fund Services,Tier 2 - High,474,22.2
+Fund Services,Tier 3 - Standard,1321,24.1
+Global Markets,Tier 1 - Critical,210,31.0
+Global Markets,Tier 2 - High,604,24.3
+Global Markets,Tier 3 - Standard,1363,25.9
+Retail Banking,Tier 1 - Critical,233,22.7
+Retail Banking,Tier 2 - High,637,25.6
+Retail Banking,Tier 3 - Standard,1143,23.6
+Technology,Tier 1 - Critical,145,25.5
+Technology,Tier 2 - High,469,23.9
+Technology,Tier 3 - Standard,1421,26.1

@@ -1,0 +1,15 @@
+assigned_analyst,analyst_shift,alerts_triaged,avg_triage_minutes,sla_breach_rate_pct
+Analyst_07,Evening,907,825.5,44.0
+Analyst_11,Day,906,845.7,42.7
+Analyst_13,Evening,905,829.7,44.0
+Analyst_05,Day,902,827.9,42.6
+Analyst_10,Evening,888,831.3,42.2
+Analyst_12,Night,887,841.9,42.4
+Analyst_08,Evening,875,750.1,44.1
+Analyst_06,Night,872,868.2,42.5
+Analyst_02,Day,871,851.0,43.6
+Analyst_14,Night,869,864.4,44.0
+Analyst_01,Evening,868,839.7,46.5
+Analyst_09,Day,863,823.3,42.4
+Analyst_04,Evening,856,827.3,43.2
+Analyst_03,Night,855,856.3,44.4

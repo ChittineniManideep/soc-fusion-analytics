@@ -1,0 +1,25 @@
+source_system,severity,alert_count
+Cloud Access Security (CASB),Critical,57
+Cloud Access Security (CASB),High,199
+Cloud Access Security (CASB),Low,309
+Cloud Access Security (CASB),Medium,400
+EDR,Critical,178
+EDR,High,502
+EDR,Low,845
+EDR,Medium,1099
+Email Gateway,Critical,142
+Email Gateway,High,403
+Email Gateway,Low,706
+Email Gateway,Medium,930
+Firewall,Critical,123
+Firewall,High,357
+Firewall,Low,643
+Firewall,Medium,872
+IDS/IPS,Critical,40
+IDS/IPS,High,141
+IDS/IPS,Low,237
+IDS/IPS,Medium,299
+SIEM,Critical,219
+SIEM,High,728
+SIEM,Low,1288
+SIEM,Medium,1607
