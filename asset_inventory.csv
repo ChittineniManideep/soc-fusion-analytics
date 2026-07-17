@@ -1,0 +1,801 @@
+asset_id,asset_criticality,business_unit,region
+AST-00001,Tier 3 - Standard,Global Markets,NA
+AST-00002,Tier 2 - High,Retail Banking,EMEA
+AST-00003,Tier 3 - Standard,Corporate Functions,NA
+AST-00004,Tier 1 - Critical,Technology,EMEA
+AST-00005,Tier 3 - Standard,Retail Banking,EMEA
+AST-00006,Tier 3 - Standard,Technology,NA
+AST-00007,Tier 3 - Standard,Global Markets,NA
+AST-00008,Tier 3 - Standard,Corporate Functions,NA
+AST-00009,Tier 3 - Standard,Retail Banking,APAC
+AST-00010,Tier 3 - Standard,Corporate Functions,EMEA
+AST-00011,Tier 3 - Standard,Asset Servicing,NA
+AST-00012,Tier 2 - High,Asset Servicing,APAC
+AST-00013,Tier 3 - Standard,Fund Services,EMEA
+AST-00014,Tier 1 - Critical,Retail Banking,EMEA
+AST-00015,Tier 2 - High,Global Markets,APAC
+AST-00016,Tier 3 - Standard,Corporate Functions,NA
+AST-00017,Tier 3 - Standard,Retail Banking,NA
+AST-00018,Tier 3 - Standard,Asset Servicing,EMEA
+AST-00019,Tier 2 - High,Global Markets,NA
+AST-00020,Tier 3 - Standard,Corporate Functions,EMEA
+AST-00021,Tier 3 - Standard,Technology,NA
+AST-00022,Tier 2 - High,Technology,NA
+AST-00023,Tier 2 - High,Asset Servicing,NA
+AST-00024,Tier 3 - Standard,Retail Banking,NA
+AST-00025,Tier 2 - High,Retail Banking,NA
+AST-00026,Tier 3 - Standard,Corporate Functions,NA
+AST-00027,Tier 3 - Standard,Retail Banking,APAC
+AST-00028,Tier 3 - Standard,Asset Servicing,NA
+AST-00029,Tier 3 - Standard,Technology,NA
+AST-00030,Tier 2 - High,Technology,NA
+AST-00031,Tier 3 - Standard,Technology,NA
+AST-00032,Tier 3 - Standard,Asset Servicing,NA
+AST-00033,Tier 3 - Standard,Corporate Functions,EMEA
+AST-00034,Tier 2 - High,Corporate Functions,NA
+AST-00035,Tier 3 - Standard,Asset Servicing,APAC
+AST-00036,Tier 2 - High,Corporate Functions,APAC
+AST-00037,Tier 2 - High,Corporate Functions,NA
+AST-00038,Tier 1 - Critical,Global Markets,NA
+AST-00039,Tier 3 - Standard,Fund Services,NA
+AST-00040,Tier 3 - Standard,Fund Services,EMEA
+AST-00041,Tier 3 - Standard,Corporate Functions,NA
+AST-00042,Tier 3 - Standard,Fund Services,APAC
+AST-00043,Tier 3 - Standard,Fund Services,EMEA
+AST-00044,Tier 3 - Standard,Corporate Functions,APAC
+AST-00045,Tier 2 - High,Asset Servicing,EMEA
+AST-00046,Tier 2 - High,Fund Services,APAC
+AST-00047,Tier 3 - Standard,Fund Services,NA
+AST-00048,Tier 3 - Standard,Technology,NA
+AST-00049,Tier 3 - Standard,Retail Banking,NA
+AST-00050,Tier 3 - Standard,Global Markets,APAC
+AST-00051,Tier 3 - Standard,Technology,EMEA
+AST-00052,Tier 3 - Standard,Corporate Functions,APAC
+AST-00053,Tier 3 - Standard,Technology,NA
+AST-00054,Tier 2 - High,Retail Banking,APAC
+AST-00055,Tier 1 - Critical,Retail Banking,EMEA
+AST-00056,Tier 3 - Standard,Fund Services,EMEA
+AST-00057,Tier 2 - High,Global Markets,APAC
+AST-00058,Tier 3 - Standard,Corporate Functions,NA
+AST-00059,Tier 3 - Standard,Global Markets,NA
+AST-00060,Tier 2 - High,Global Markets,EMEA
+AST-00061,Tier 1 - Critical,Technology,NA
+AST-00062,Tier 2 - High,Retail Banking,NA
+AST-00063,Tier 2 - High,Fund Services,NA
+AST-00064,Tier 3 - Standard,Technology,NA
+AST-00065,Tier 3 - Standard,Corporate Functions,APAC
+AST-00066,Tier 3 - Standard,Global Markets,EMEA
+AST-00067,Tier 3 - Standard,Retail Banking,NA
+AST-00068,Tier 3 - Standard,Fund Services,NA
+AST-00069,Tier 3 - Standard,Global Markets,NA
+AST-00070,Tier 2 - High,Retail Banking,EMEA
+AST-00071,Tier 1 - Critical,Global Markets,APAC
+AST-00072,Tier 1 - Critical,Technology,APAC
+AST-00073,Tier 3 - Standard,Asset Servicing,NA
+AST-00074,Tier 3 - Standard,Asset Servicing,NA
+AST-00075,Tier 2 - High,Fund Services,EMEA
+AST-00076,Tier 3 - Standard,Asset Servicing,EMEA
+AST-00077,Tier 2 - High,Technology,EMEA
+AST-00078,Tier 3 - Standard,Technology,EMEA
+AST-00079,Tier 3 - Standard,Technology,EMEA
+AST-00080,Tier 3 - Standard,Technology,NA
+AST-00081,Tier 2 - High,Asset Servicing,NA
+AST-00082,Tier 3 - Standard,Asset Servicing,NA
+AST-00083,Tier 3 - Standard,Global Markets,NA
+AST-00084,Tier 1 - Critical,Global Markets,NA
+AST-00085,Tier 2 - High,Technology,EMEA
+AST-00086,Tier 3 - Standard,Fund Services,NA
+AST-00087,Tier 3 - Standard,Corporate Functions,NA
+AST-00088,Tier 3 - Standard,Technology,EMEA
+AST-00089,Tier 2 - High,Corporate Functions,EMEA
+AST-00090,Tier 3 - Standard,Global Markets,NA
+AST-00091,Tier 3 - Standard,Global Markets,APAC
+AST-00092,Tier 3 - Standard,Corporate Functions,APAC
+AST-00093,Tier 3 - Standard,Retail Banking,EMEA
+AST-00094,Tier 2 - High,Fund Services,EMEA
+AST-00095,Tier 1 - Critical,Corporate Functions,NA
+AST-00096,Tier 3 - Standard,Fund Services,APAC
+AST-00097,Tier 3 - Standard,Corporate Functions,NA
+AST-00098,Tier 2 - High,Fund Services,APAC
+AST-00099,Tier 2 - High,Technology,EMEA
+AST-00100,Tier 3 - Standard,Corporate Functions,NA
+AST-00101,Tier 2 - High,Global Markets,NA
+AST-00102,Tier 3 - Standard,Retail Banking,EMEA
+AST-00103,Tier 3 - Standard,Fund Services,EMEA
+AST-00104,Tier 3 - Standard,Technology,NA
+AST-00105,Tier 3 - Standard,Fund Services,EMEA
+AST-00106,Tier 3 - Standard,Technology,APAC
+AST-00107,Tier 3 - Standard,Technology,EMEA
+AST-00108,Tier 3 - Standard,Fund Services,EMEA
+AST-00109,Tier 1 - Critical,Corporate Functions,NA
+AST-00110,Tier 3 - Standard,Retail Banking,EMEA
+AST-00111,Tier 1 - Critical,Retail Banking,NA
+AST-00112,Tier 3 - Standard,Asset Servicing,APAC
+AST-00113,Tier 2 - High,Global Markets,NA
+AST-00114,Tier 2 - High,Fund Services,EMEA
+AST-00115,Tier 2 - High,Global Markets,NA
+AST-00116,Tier 3 - Standard,Retail Banking,NA
+AST-00117,Tier 2 - High,Asset Servicing,EMEA
+AST-00118,Tier 3 - Standard,Technology,EMEA
+AST-00119,Tier 3 - Standard,Technology,EMEA
+AST-00120,Tier 2 - High,Global Markets,APAC
+AST-00121,Tier 3 - Standard,Fund Services,APAC
+AST-00122,Tier 1 - Critical,Fund Services,APAC
+AST-00123,Tier 3 - Standard,Technology,NA
+AST-00124,Tier 3 - Standard,Technology,EMEA
+AST-00125,Tier 3 - Standard,Corporate Functions,APAC
+AST-00126,Tier 1 - Critical,Global Markets,NA
+AST-00127,Tier 3 - Standard,Corporate Functions,NA
+AST-00128,Tier 3 - Standard,Asset Servicing,APAC
+AST-00129,Tier 3 - Standard,Global Markets,EMEA
+AST-00130,Tier 3 - Standard,Corporate Functions,EMEA
+AST-00131,Tier 3 - Standard,Corporate Functions,APAC
+AST-00132,Tier 2 - High,Corporate Functions,EMEA
+AST-00133,Tier 2 - High,Global Markets,NA
+AST-00134,Tier 3 - Standard,Global Markets,NA
+AST-00135,Tier 3 - Standard,Retail Banking,NA
+AST-00136,Tier 1 - Critical,Corporate Functions,NA
+AST-00137,Tier 3 - Standard,Corporate Functions,EMEA
+AST-00138,Tier 3 - Standard,Technology,APAC
+AST-00139,Tier 2 - High,Corporate Functions,NA
+AST-00140,Tier 3 - Standard,Global Markets,NA
+AST-00141,Tier 2 - High,Retail Banking,APAC
+AST-00142,Tier 3 - Standard,Asset Servicing,NA
+AST-00143,Tier 2 - High,Global Markets,EMEA
+AST-00144,Tier 3 - Standard,Global Markets,EMEA
+AST-00145,Tier 3 - Standard,Global Markets,EMEA
+AST-00146,Tier 3 - Standard,Global Markets,NA
+AST-00147,Tier 2 - High,Fund Services,EMEA
+AST-00148,Tier 3 - Standard,Retail Banking,NA
+AST-00149,Tier 2 - High,Asset Servicing,EMEA
+AST-00150,Tier 1 - Critical,Retail Banking,NA
+AST-00151,Tier 3 - Standard,Asset Servicing,EMEA
+AST-00152,Tier 3 - Standard,Fund Services,EMEA
+AST-00153,Tier 3 - Standard,Retail Banking,NA
+AST-00154,Tier 3 - Standard,Global Markets,NA
+AST-00155,Tier 2 - High,Retail Banking,NA
+AST-00156,Tier 3 - Standard,Technology,NA
+AST-00157,Tier 2 - High,Fund Services,NA
+AST-00158,Tier 3 - Standard,Asset Servicing,APAC
+AST-00159,Tier 2 - High,Asset Servicing,NA
+AST-00160,Tier 3 - Standard,Retail Banking,APAC
+AST-00161,Tier 2 - High,Global Markets,APAC
+AST-00162,Tier 1 - Critical,Fund Services,NA
+AST-00163,Tier 3 - Standard,Corporate Functions,EMEA
+AST-00164,Tier 3 - Standard,Technology,APAC
+AST-00165,Tier 3 - Standard,Global Markets,EMEA
+AST-00166,Tier 3 - Standard,Asset Servicing,NA
+AST-00167,Tier 3 - Standard,Global Markets,NA
+AST-00168,Tier 3 - Standard,Asset Servicing,NA
+AST-00169,Tier 3 - Standard,Technology,EMEA
+AST-00170,Tier 2 - High,Asset Servicing,APAC
+AST-00171,Tier 3 - Standard,Global Markets,APAC
+AST-00172,Tier 3 - Standard,Corporate Functions,NA
+AST-00173,Tier 3 - Standard,Retail Banking,EMEA
+AST-00174,Tier 1 - Critical,Global Markets,NA
+AST-00175,Tier 3 - Standard,Global Markets,APAC
+AST-00176,Tier 2 - High,Asset Servicing,NA
+AST-00177,Tier 3 - Standard,Retail Banking,APAC
+AST-00178,Tier 2 - High,Retail Banking,APAC
+AST-00179,Tier 2 - High,Retail Banking,NA
+AST-00180,Tier 3 - Standard,Global Markets,NA
+AST-00181,Tier 2 - High,Retail Banking,APAC
+AST-00182,Tier 2 - High,Technology,NA
+AST-00183,Tier 3 - Standard,Asset Servicing,EMEA
+AST-00184,Tier 3 - Standard,Corporate Functions,APAC
+AST-00185,Tier 2 - High,Fund Services,EMEA
+AST-00186,Tier 2 - High,Global Markets,NA
+AST-00187,Tier 3 - Standard,Technology,NA
+AST-00188,Tier 3 - Standard,Retail Banking,NA
+AST-00189,Tier 3 - Standard,Asset Servicing,APAC
+AST-00190,Tier 2 - High,Asset Servicing,NA
+AST-00191,Tier 1 - Critical,Retail Banking,NA
+AST-00192,Tier 2 - High,Asset Servicing,NA
+AST-00193,Tier 2 - High,Asset Servicing,APAC
+AST-00194,Tier 3 - Standard,Fund Services,NA
+AST-00195,Tier 2 - High,Asset Servicing,APAC
+AST-00196,Tier 3 - Standard,Technology,EMEA
+AST-00197,Tier 3 - Standard,Fund Services,APAC
+AST-00198,Tier 3 - Standard,Technology,APAC
+AST-00199,Tier 2 - High,Retail Banking,APAC
+AST-00200,Tier 3 - Standard,Technology,APAC
+AST-00201,Tier 3 - Standard,Corporate Functions,NA
+AST-00202,Tier 3 - Standard,Technology,EMEA
+AST-00203,Tier 2 - High,Global Markets,EMEA
+AST-00204,Tier 2 - High,Technology,EMEA
+AST-00205,Tier 3 - Standard,Corporate Functions,APAC
+AST-00206,Tier 3 - Standard,Retail Banking,APAC
+AST-00207,Tier 2 - High,Global Markets,EMEA
+AST-00208,Tier 3 - Standard,Retail Banking,EMEA
+AST-00209,Tier 3 - Standard,Technology,EMEA
+AST-00210,Tier 3 - Standard,Asset Servicing,NA
+AST-00211,Tier 2 - High,Asset Servicing,NA
+AST-00212,Tier 3 - Standard,Corporate Functions,NA
+AST-00213,Tier 1 - Critical,Global Markets,NA
+AST-00214,Tier 3 - Standard,Retail Banking,NA
+AST-00215,Tier 3 - Standard,Fund Services,EMEA
+AST-00216,Tier 2 - High,Technology,NA
+AST-00217,Tier 2 - High,Fund Services,APAC
+AST-00218,Tier 3 - Standard,Corporate Functions,EMEA
+AST-00219,Tier 3 - Standard,Global Markets,NA
+AST-00220,Tier 3 - Standard,Corporate Functions,NA
+AST-00221,Tier 3 - Standard,Corporate Functions,NA
+AST-00222,Tier 3 - Standard,Retail Banking,APAC
+AST-00223,Tier 3 - Standard,Retail Banking,NA
+AST-00224,Tier 3 - Standard,Asset Servicing,EMEA
+AST-00225,Tier 1 - Critical,Global Markets,APAC
+AST-00226,Tier 2 - High,Retail Banking,APAC
+AST-00227,Tier 3 - Standard,Retail Banking,NA
+AST-00228,Tier 3 - Standard,Technology,NA
+AST-00229,Tier 2 - High,Global Markets,NA
+AST-00230,Tier 3 - Standard,Corporate Functions,NA
+AST-00231,Tier 3 - Standard,Corporate Functions,NA
+AST-00232,Tier 3 - Standard,Fund Services,EMEA
+AST-00233,Tier 3 - Standard,Fund Services,APAC
+AST-00234,Tier 3 - Standard,Asset Servicing,EMEA
+AST-00235,Tier 3 - Standard,Technology,EMEA
+AST-00236,Tier 3 - Standard,Global Markets,NA
+AST-00237,Tier 3 - Standard,Technology,APAC
+AST-00238,Tier 3 - Standard,Global Markets,EMEA
+AST-00239,Tier 3 - Standard,Retail Banking,APAC
+AST-00240,Tier 2 - High,Fund Services,APAC
+AST-00241,Tier 2 - High,Retail Banking,NA
+AST-00242,Tier 3 - Standard,Fund Services,NA
+AST-00243,Tier 3 - Standard,Retail Banking,NA
+AST-00244,Tier 2 - High,Asset Servicing,NA
+AST-00245,Tier 1 - Critical,Corporate Functions,APAC
+AST-00246,Tier 3 - Standard,Technology,NA
+AST-00247,Tier 2 - High,Global Markets,EMEA
+AST-00248,Tier 3 - Standard,Retail Banking,EMEA
+AST-00249,Tier 2 - High,Asset Servicing,NA
+AST-00250,Tier 2 - High,Technology,NA
+AST-00251,Tier 3 - Standard,Fund Services,EMEA
+AST-00252,Tier 2 - High,Retail Banking,EMEA
+AST-00253,Tier 2 - High,Global Markets,NA
+AST-00254,Tier 2 - High,Asset Servicing,NA
+AST-00255,Tier 2 - High,Asset Servicing,EMEA
+AST-00256,Tier 1 - Critical,Technology,NA
+AST-00257,Tier 1 - Critical,Corporate Functions,APAC
+AST-00258,Tier 2 - High,Asset Servicing,NA
+AST-00259,Tier 1 - Critical,Corporate Functions,NA
+AST-00260,Tier 3 - Standard,Global Markets,EMEA
+AST-00261,Tier 3 - Standard,Retail Banking,EMEA
+AST-00262,Tier 3 - Standard,Global Markets,EMEA
+AST-00263,Tier 2 - High,Asset Servicing,NA
+AST-00264,Tier 3 - Standard,Asset Servicing,APAC
+AST-00265,Tier 3 - Standard,Technology,EMEA
+AST-00266,Tier 3 - Standard,Fund Services,EMEA
+AST-00267,Tier 1 - Critical,Retail Banking,NA
+AST-00268,Tier 2 - High,Technology,NA
+AST-00269,Tier 2 - High,Corporate Functions,EMEA
+AST-00270,Tier 2 - High,Technology,NA
+AST-00271,Tier 3 - Standard,Fund Services,EMEA
+AST-00272,Tier 3 - Standard,Global Markets,NA
+AST-00273,Tier 1 - Critical,Corporate Functions,APAC
+AST-00274,Tier 3 - Standard,Corporate Functions,EMEA
+AST-00275,Tier 3 - Standard,Fund Services,APAC
+AST-00276,Tier 2 - High,Asset Servicing,EMEA
+AST-00277,Tier 3 - Standard,Asset Servicing,NA
+AST-00278,Tier 1 - Critical,Asset Servicing,APAC
+AST-00279,Tier 3 - Standard,Asset Servicing,EMEA
+AST-00280,Tier 1 - Critical,Retail Banking,EMEA
+AST-00281,Tier 3 - Standard,Retail Banking,NA
+AST-00282,Tier 3 - Standard,Technology,EMEA
+AST-00283,Tier 3 - Standard,Retail Banking,APAC
+AST-00284,Tier 3 - Standard,Technology,EMEA
+AST-00285,Tier 3 - Standard,Retail Banking,NA
+AST-00286,Tier 3 - Standard,Fund Services,EMEA
+AST-00287,Tier 3 - Standard,Asset Servicing,EMEA
+AST-00288,Tier 2 - High,Corporate Functions,APAC
+AST-00289,Tier 3 - Standard,Asset Servicing,NA
+AST-00290,Tier 3 - Standard,Global Markets,NA
+AST-00291,Tier 3 - Standard,Global Markets,APAC
+AST-00292,Tier 3 - Standard,Corporate Functions,EMEA
+AST-00293,Tier 3 - Standard,Global Markets,EMEA
+AST-00294,Tier 3 - Standard,Corporate Functions,EMEA
+AST-00295,Tier 2 - High,Fund Services,NA
+AST-00296,Tier 2 - High,Global Markets,EMEA
+AST-00297,Tier 3 - Standard,Global Markets,NA
+AST-00298,Tier 3 - Standard,Retail Banking,NA
+AST-00299,Tier 2 - High,Global Markets,EMEA
+AST-00300,Tier 3 - Standard,Retail Banking,EMEA
+AST-00301,Tier 3 - Standard,Asset Servicing,APAC
+AST-00302,Tier 2 - High,Technology,NA
+AST-00303,Tier 3 - Standard,Retail Banking,NA
+AST-00304,Tier 3 - Standard,Global Markets,APAC
+AST-00305,Tier 2 - High,Technology,NA
+AST-00306,Tier 3 - Standard,Technology,NA
+AST-00307,Tier 3 - Standard,Retail Banking,NA
+AST-00308,Tier 3 - Standard,Retail Banking,EMEA
+AST-00309,Tier 2 - High,Global Markets,APAC
+AST-00310,Tier 3 - Standard,Corporate Functions,EMEA
+AST-00311,Tier 3 - Standard,Technology,EMEA
+AST-00312,Tier 3 - Standard,Asset Servicing,NA
+AST-00313,Tier 3 - Standard,Retail Banking,NA
+AST-00314,Tier 3 - Standard,Asset Servicing,EMEA
+AST-00315,Tier 3 - Standard,Technology,NA
+AST-00316,Tier 2 - High,Retail Banking,NA
+AST-00317,Tier 3 - Standard,Global Markets,NA
+AST-00318,Tier 2 - High,Retail Banking,NA
+AST-00319,Tier 3 - Standard,Retail Banking,EMEA
+AST-00320,Tier 3 - Standard,Technology,EMEA
+AST-00321,Tier 2 - High,Retail Banking,NA
+AST-00322,Tier 3 - Standard,Asset Servicing,EMEA
+AST-00323,Tier 1 - Critical,Technology,EMEA
+AST-00324,Tier 3 - Standard,Corporate Functions,EMEA
+AST-00325,Tier 1 - Critical,Retail Banking,APAC
+AST-00326,Tier 3 - Standard,Global Markets,NA
+AST-00327,Tier 2 - High,Technology,APAC
+AST-00328,Tier 3 - Standard,Global Markets,NA
+AST-00329,Tier 3 - Standard,Corporate Functions,NA
+AST-00330,Tier 3 - Standard,Corporate Functions,NA
+AST-00331,Tier 3 - Standard,Corporate Functions,EMEA
+AST-00332,Tier 3 - Standard,Asset Servicing,NA
+AST-00333,Tier 3 - Standard,Technology,NA
+AST-00334,Tier 2 - High,Technology,EMEA
+AST-00335,Tier 3 - Standard,Retail Banking,NA
+AST-00336,Tier 1 - Critical,Fund Services,NA
+AST-00337,Tier 3 - Standard,Fund Services,NA
+AST-00338,Tier 2 - High,Fund Services,NA
+AST-00339,Tier 3 - Standard,Global Markets,NA
+AST-00340,Tier 3 - Standard,Global Markets,NA
+AST-00341,Tier 3 - Standard,Technology,NA
+AST-00342,Tier 3 - Standard,Retail Banking,EMEA
+AST-00343,Tier 3 - Standard,Fund Services,APAC
+AST-00344,Tier 3 - Standard,Technology,EMEA
+AST-00345,Tier 3 - Standard,Fund Services,EMEA
+AST-00346,Tier 3 - Standard,Global Markets,APAC
+AST-00347,Tier 3 - Standard,Corporate Functions,APAC
+AST-00348,Tier 2 - High,Retail Banking,EMEA
+AST-00349,Tier 2 - High,Technology,APAC
+AST-00350,Tier 1 - Critical,Global Markets,APAC
+AST-00351,Tier 3 - Standard,Retail Banking,EMEA
+AST-00352,Tier 3 - Standard,Fund Services,EMEA
+AST-00353,Tier 3 - Standard,Corporate Functions,NA
+AST-00354,Tier 3 - Standard,Corporate Functions,NA
+AST-00355,Tier 2 - High,Retail Banking,EMEA
+AST-00356,Tier 3 - Standard,Fund Services,EMEA
+AST-00357,Tier 3 - Standard,Corporate Functions,NA
+AST-00358,Tier 2 - High,Fund Services,EMEA
+AST-00359,Tier 3 - Standard,Fund Services,EMEA
+AST-00360,Tier 2 - High,Asset Servicing,APAC
+AST-00361,Tier 2 - High,Asset Servicing,NA
+AST-00362,Tier 2 - High,Technology,NA
+AST-00363,Tier 3 - Standard,Corporate Functions,EMEA
+AST-00364,Tier 3 - Standard,Global Markets,APAC
+AST-00365,Tier 3 - Standard,Asset Servicing,APAC
+AST-00366,Tier 3 - Standard,Corporate Functions,APAC
+AST-00367,Tier 3 - Standard,Fund Services,APAC
+AST-00368,Tier 3 - Standard,Retail Banking,NA
+AST-00369,Tier 3 - Standard,Corporate Functions,NA
+AST-00370,Tier 3 - Standard,Technology,NA
+AST-00371,Tier 3 - Standard,Asset Servicing,EMEA
+AST-00372,Tier 3 - Standard,Asset Servicing,APAC
+AST-00373,Tier 3 - Standard,Technology,NA
+AST-00374,Tier 3 - Standard,Retail Banking,EMEA
+AST-00375,Tier 2 - High,Global Markets,NA
+AST-00376,Tier 3 - Standard,Global Markets,NA
+AST-00377,Tier 3 - Standard,Fund Services,NA
+AST-00378,Tier 2 - High,Retail Banking,NA
+AST-00379,Tier 3 - Standard,Global Markets,APAC
+AST-00380,Tier 3 - Standard,Retail Banking,NA
+AST-00381,Tier 1 - Critical,Fund Services,APAC
+AST-00382,Tier 3 - Standard,Corporate Functions,EMEA
+AST-00383,Tier 3 - Standard,Global Markets,NA
+AST-00384,Tier 2 - High,Global Markets,NA
+AST-00385,Tier 3 - Standard,Retail Banking,APAC
+AST-00386,Tier 3 - Standard,Technology,NA
+AST-00387,Tier 2 - High,Corporate Functions,APAC
+AST-00388,Tier 3 - Standard,Asset Servicing,NA
+AST-00389,Tier 3 - Standard,Global Markets,EMEA
+AST-00390,Tier 2 - High,Fund Services,APAC
+AST-00391,Tier 3 - Standard,Fund Services,NA
+AST-00392,Tier 3 - Standard,Global Markets,NA
+AST-00393,Tier 2 - High,Asset Servicing,APAC
+AST-00394,Tier 3 - Standard,Corporate Functions,NA
+AST-00395,Tier 2 - High,Corporate Functions,NA
+AST-00396,Tier 3 - Standard,Corporate Functions,NA
+AST-00397,Tier 3 - Standard,Retail Banking,NA
+AST-00398,Tier 3 - Standard,Global Markets,EMEA
+AST-00399,Tier 1 - Critical,Corporate Functions,EMEA
+AST-00400,Tier 3 - Standard,Technology,NA
+AST-00401,Tier 1 - Critical,Corporate Functions,APAC
+AST-00402,Tier 2 - High,Global Markets,NA
+AST-00403,Tier 2 - High,Corporate Functions,NA
+AST-00404,Tier 3 - Standard,Asset Servicing,EMEA
+AST-00405,Tier 2 - High,Retail Banking,APAC
+AST-00406,Tier 3 - Standard,Fund Services,NA
+AST-00407,Tier 3 - Standard,Technology,NA
+AST-00408,Tier 1 - Critical,Technology,EMEA
+AST-00409,Tier 1 - Critical,Corporate Functions,APAC
+AST-00410,Tier 1 - Critical,Retail Banking,NA
+AST-00411,Tier 3 - Standard,Technology,NA
+AST-00412,Tier 3 - Standard,Global Markets,EMEA
+AST-00413,Tier 2 - High,Asset Servicing,NA
+AST-00414,Tier 3 - Standard,Technology,NA
+AST-00415,Tier 1 - Critical,Fund Services,NA
+AST-00416,Tier 3 - Standard,Fund Services,NA
+AST-00417,Tier 3 - Standard,Asset Servicing,EMEA
+AST-00418,Tier 3 - Standard,Technology,APAC
+AST-00419,Tier 3 - Standard,Global Markets,EMEA
+AST-00420,Tier 3 - Standard,Corporate Functions,EMEA
+AST-00421,Tier 1 - Critical,Fund Services,APAC
+AST-00422,Tier 2 - High,Corporate Functions,NA
+AST-00423,Tier 2 - High,Asset Servicing,NA
+AST-00424,Tier 3 - Standard,Asset Servicing,APAC
+AST-00425,Tier 3 - Standard,Global Markets,NA
+AST-00426,Tier 3 - Standard,Technology,EMEA
+AST-00427,Tier 3 - Standard,Fund Services,EMEA
+AST-00428,Tier 2 - High,Global Markets,NA
+AST-00429,Tier 3 - Standard,Fund Services,EMEA
+AST-00430,Tier 2 - High,Fund Services,NA
+AST-00431,Tier 2 - High,Global Markets,NA
+AST-00432,Tier 3 - Standard,Global Markets,EMEA
+AST-00433,Tier 3 - Standard,Technology,NA
+AST-00434,Tier 3 - Standard,Corporate Functions,EMEA
+AST-00435,Tier 1 - Critical,Retail Banking,APAC
+AST-00436,Tier 3 - Standard,Fund Services,APAC
+AST-00437,Tier 1 - Critical,Corporate Functions,NA
+AST-00438,Tier 3 - Standard,Corporate Functions,NA
+AST-00439,Tier 3 - Standard,Fund Services,NA
+AST-00440,Tier 2 - High,Technology,NA
+AST-00441,Tier 1 - Critical,Asset Servicing,APAC
+AST-00442,Tier 2 - High,Global Markets,NA
+AST-00443,Tier 3 - Standard,Asset Servicing,NA
+AST-00444,Tier 3 - Standard,Corporate Functions,APAC
+AST-00445,Tier 3 - Standard,Global Markets,NA
+AST-00446,Tier 3 - Standard,Global Markets,NA
+AST-00447,Tier 3 - Standard,Fund Services,NA
+AST-00448,Tier 2 - High,Global Markets,EMEA
+AST-00449,Tier 3 - Standard,Global Markets,EMEA
+AST-00450,Tier 2 - High,Global Markets,NA
+AST-00451,Tier 3 - Standard,Asset Servicing,APAC
+AST-00452,Tier 3 - Standard,Retail Banking,APAC
+AST-00453,Tier 3 - Standard,Fund Services,APAC
+AST-00454,Tier 3 - Standard,Retail Banking,NA
+AST-00455,Tier 2 - High,Asset Servicing,NA
+AST-00456,Tier 3 - Standard,Fund Services,APAC
+AST-00457,Tier 3 - Standard,Retail Banking,NA
+AST-00458,Tier 3 - Standard,Corporate Functions,EMEA
+AST-00459,Tier 2 - High,Fund Services,EMEA
+AST-00460,Tier 2 - High,Corporate Functions,NA
+AST-00461,Tier 2 - High,Asset Servicing,EMEA
+AST-00462,Tier 2 - High,Retail Banking,APAC
+AST-00463,Tier 3 - Standard,Technology,EMEA
+AST-00464,Tier 3 - Standard,Asset Servicing,NA
+AST-00465,Tier 3 - Standard,Fund Services,APAC
+AST-00466,Tier 3 - Standard,Asset Servicing,EMEA
+AST-00467,Tier 3 - Standard,Retail Banking,EMEA
+AST-00468,Tier 2 - High,Fund Services,APAC
+AST-00469,Tier 3 - Standard,Technology,EMEA
+AST-00470,Tier 2 - High,Technology,NA
+AST-00471,Tier 1 - Critical,Fund Services,NA
+AST-00472,Tier 3 - Standard,Asset Servicing,NA
+AST-00473,Tier 3 - Standard,Technology,EMEA
+AST-00474,Tier 2 - High,Fund Services,EMEA
+AST-00475,Tier 3 - Standard,Asset Servicing,EMEA
+AST-00476,Tier 3 - Standard,Retail Banking,NA
+AST-00477,Tier 3 - Standard,Technology,EMEA
+AST-00478,Tier 3 - Standard,Asset Servicing,APAC
+AST-00479,Tier 3 - Standard,Fund Services,NA
+AST-00480,Tier 2 - High,Retail Banking,EMEA
+AST-00481,Tier 3 - Standard,Asset Servicing,EMEA
+AST-00482,Tier 3 - Standard,Asset Servicing,EMEA
+AST-00483,Tier 3 - Standard,Asset Servicing,NA
+AST-00484,Tier 3 - Standard,Fund Services,EMEA
+AST-00485,Tier 3 - Standard,Technology,APAC
+AST-00486,Tier 3 - Standard,Technology,EMEA
+AST-00487,Tier 3 - Standard,Fund Services,APAC
+AST-00488,Tier 3 - Standard,Asset Servicing,APAC
+AST-00489,Tier 3 - Standard,Technology,NA
+AST-00490,Tier 3 - Standard,Corporate Functions,EMEA
+AST-00491,Tier 3 - Standard,Corporate Functions,EMEA
+AST-00492,Tier 3 - Standard,Fund Services,APAC
+AST-00493,Tier 2 - High,Fund Services,NA
+AST-00494,Tier 3 - Standard,Technology,NA
+AST-00495,Tier 3 - Standard,Corporate Functions,APAC
+AST-00496,Tier 2 - High,Corporate Functions,NA
+AST-00497,Tier 1 - Critical,Fund Services,EMEA
+AST-00498,Tier 3 - Standard,Asset Servicing,NA
+AST-00499,Tier 1 - Critical,Asset Servicing,APAC
+AST-00500,Tier 2 - High,Corporate Functions,APAC
+AST-00501,Tier 2 - High,Retail Banking,NA
+AST-00502,Tier 2 - High,Asset Servicing,EMEA
+AST-00503,Tier 2 - High,Fund Services,NA
+AST-00504,Tier 3 - Standard,Technology,EMEA
+AST-00505,Tier 1 - Critical,Corporate Functions,EMEA
+AST-00506,Tier 3 - Standard,Global Markets,APAC
+AST-00507,Tier 3 - Standard,Global Markets,NA
+AST-00508,Tier 3 - Standard,Fund Services,NA
+AST-00509,Tier 2 - High,Corporate Functions,EMEA
+AST-00510,Tier 3 - Standard,Retail Banking,EMEA
+AST-00511,Tier 2 - High,Corporate Functions,EMEA
+AST-00512,Tier 3 - Standard,Global Markets,NA
+AST-00513,Tier 3 - Standard,Fund Services,NA
+AST-00514,Tier 3 - Standard,Technology,APAC
+AST-00515,Tier 3 - Standard,Technology,NA
+AST-00516,Tier 2 - High,Corporate Functions,NA
+AST-00517,Tier 3 - Standard,Global Markets,APAC
+AST-00518,Tier 3 - Standard,Global Markets,NA
+AST-00519,Tier 3 - Standard,Asset Servicing,EMEA
+AST-00520,Tier 3 - Standard,Technology,NA
+AST-00521,Tier 1 - Critical,Technology,APAC
+AST-00522,Tier 2 - High,Technology,EMEA
+AST-00523,Tier 3 - Standard,Asset Servicing,APAC
+AST-00524,Tier 2 - High,Asset Servicing,NA
+AST-00525,Tier 2 - High,Technology,EMEA
+AST-00526,Tier 3 - Standard,Corporate Functions,EMEA
+AST-00527,Tier 3 - Standard,Fund Services,NA
+AST-00528,Tier 3 - Standard,Global Markets,NA
+AST-00529,Tier 3 - Standard,Global Markets,NA
+AST-00530,Tier 3 - Standard,Corporate Functions,APAC
+AST-00531,Tier 2 - High,Fund Services,EMEA
+AST-00532,Tier 3 - Standard,Global Markets,EMEA
+AST-00533,Tier 3 - Standard,Fund Services,EMEA
+AST-00534,Tier 1 - Critical,Asset Servicing,EMEA
+AST-00535,Tier 3 - Standard,Global Markets,EMEA
+AST-00536,Tier 3 - Standard,Technology,NA
+AST-00537,Tier 3 - Standard,Technology,EMEA
+AST-00538,Tier 2 - High,Technology,NA
+AST-00539,Tier 2 - High,Asset Servicing,APAC
+AST-00540,Tier 3 - Standard,Technology,APAC
+AST-00541,Tier 1 - Critical,Technology,NA
+AST-00542,Tier 2 - High,Technology,EMEA
+AST-00543,Tier 2 - High,Retail Banking,NA
+AST-00544,Tier 3 - Standard,Fund Services,APAC
+AST-00545,Tier 3 - Standard,Technology,APAC
+AST-00546,Tier 3 - Standard,Fund Services,APAC
+AST-00547,Tier 1 - Critical,Asset Servicing,NA
+AST-00548,Tier 2 - High,Fund Services,NA
+AST-00549,Tier 3 - Standard,Retail Banking,NA
+AST-00550,Tier 3 - Standard,Global Markets,NA
+AST-00551,Tier 3 - Standard,Corporate Functions,NA
+AST-00552,Tier 3 - Standard,Global Markets,NA
+AST-00553,Tier 3 - Standard,Fund Services,APAC
+AST-00554,Tier 1 - Critical,Asset Servicing,NA
+AST-00555,Tier 3 - Standard,Corporate Functions,NA
+AST-00556,Tier 3 - Standard,Corporate Functions,APAC
+AST-00557,Tier 2 - High,Corporate Functions,EMEA
+AST-00558,Tier 3 - Standard,Asset Servicing,EMEA
+AST-00559,Tier 3 - Standard,Asset Servicing,EMEA
+AST-00560,Tier 3 - Standard,Asset Servicing,APAC
+AST-00561,Tier 3 - Standard,Global Markets,EMEA
+AST-00562,Tier 3 - Standard,Corporate Functions,EMEA
+AST-00563,Tier 3 - Standard,Global Markets,EMEA
+AST-00564,Tier 3 - Standard,Global Markets,NA
+AST-00565,Tier 3 - Standard,Asset Servicing,NA
+AST-00566,Tier 2 - High,Asset Servicing,EMEA
+AST-00567,Tier 3 - Standard,Corporate Functions,NA
+AST-00568,Tier 3 - Standard,Fund Services,EMEA
+AST-00569,Tier 2 - High,Asset Servicing,NA
+AST-00570,Tier 3 - Standard,Technology,NA
+AST-00571,Tier 3 - Standard,Corporate Functions,NA
+AST-00572,Tier 3 - Standard,Asset Servicing,APAC
+AST-00573,Tier 2 - High,Global Markets,NA
+AST-00574,Tier 2 - High,Retail Banking,EMEA
+AST-00575,Tier 2 - High,Retail Banking,APAC
+AST-00576,Tier 1 - Critical,Global Markets,NA
+AST-00577,Tier 3 - Standard,Global Markets,EMEA
+AST-00578,Tier 3 - Standard,Fund Services,NA
+AST-00579,Tier 2 - High,Retail Banking,NA
+AST-00580,Tier 3 - Standard,Technology,EMEA
+AST-00581,Tier 1 - Critical,Asset Servicing,APAC
+AST-00582,Tier 2 - High,Retail Banking,NA
+AST-00583,Tier 3 - Standard,Fund Services,EMEA
+AST-00584,Tier 3 - Standard,Fund Services,NA
+AST-00585,Tier 3 - Standard,Corporate Functions,EMEA
+AST-00586,Tier 3 - Standard,Retail Banking,EMEA
+AST-00587,Tier 3 - Standard,Retail Banking,EMEA
+AST-00588,Tier 3 - Standard,Global Markets,EMEA
+AST-00589,Tier 3 - Standard,Global Markets,NA
+AST-00590,Tier 3 - Standard,Technology,EMEA
+AST-00591,Tier 3 - Standard,Asset Servicing,EMEA
+AST-00592,Tier 3 - Standard,Asset Servicing,EMEA
+AST-00593,Tier 3 - Standard,Technology,NA
+AST-00594,Tier 2 - High,Retail Banking,NA
+AST-00595,Tier 3 - Standard,Retail Banking,NA
+AST-00596,Tier 3 - Standard,Global Markets,NA
+AST-00597,Tier 3 - Standard,Global Markets,NA
+AST-00598,Tier 3 - Standard,Corporate Functions,NA
+AST-00599,Tier 3 - Standard,Technology,EMEA
+AST-00600,Tier 3 - Standard,Technology,NA
+AST-00601,Tier 2 - High,Asset Servicing,APAC
+AST-00602,Tier 3 - Standard,Technology,EMEA
+AST-00603,Tier 3 - Standard,Corporate Functions,EMEA
+AST-00604,Tier 2 - High,Retail Banking,EMEA
+AST-00605,Tier 2 - High,Technology,EMEA
+AST-00606,Tier 1 - Critical,Retail Banking,EMEA
+AST-00607,Tier 3 - Standard,Corporate Functions,APAC
+AST-00608,Tier 3 - Standard,Fund Services,EMEA
+AST-00609,Tier 3 - Standard,Asset Servicing,EMEA
+AST-00610,Tier 3 - Standard,Asset Servicing,EMEA
+AST-00611,Tier 3 - Standard,Global Markets,EMEA
+AST-00612,Tier 3 - Standard,Technology,NA
+AST-00613,Tier 3 - Standard,Asset Servicing,EMEA
+AST-00614,Tier 1 - Critical,Corporate Functions,EMEA
+AST-00615,Tier 3 - Standard,Global Markets,APAC
+AST-00616,Tier 3 - Standard,Retail Banking,EMEA
+AST-00617,Tier 3 - Standard,Fund Services,EMEA
+AST-00618,Tier 3 - Standard,Fund Services,APAC
+AST-00619,Tier 1 - Critical,Corporate Functions,EMEA
+AST-00620,Tier 3 - Standard,Asset Servicing,NA
+AST-00621,Tier 1 - Critical,Retail Banking,NA
+AST-00622,Tier 2 - High,Global Markets,NA
+AST-00623,Tier 3 - Standard,Corporate Functions,NA
+AST-00624,Tier 3 - Standard,Corporate Functions,NA
+AST-00625,Tier 3 - Standard,Asset Servicing,EMEA
+AST-00626,Tier 3 - Standard,Corporate Functions,EMEA
+AST-00627,Tier 3 - Standard,Asset Servicing,NA
+AST-00628,Tier 3 - Standard,Fund Services,EMEA
+AST-00629,Tier 1 - Critical,Fund Services,NA
+AST-00630,Tier 2 - High,Corporate Functions,APAC
+AST-00631,Tier 3 - Standard,Retail Banking,NA
+AST-00632,Tier 3 - Standard,Technology,EMEA
+AST-00633,Tier 1 - Critical,Retail Banking,NA
+AST-00634,Tier 3 - Standard,Technology,EMEA
+AST-00635,Tier 3 - Standard,Retail Banking,NA
+AST-00636,Tier 1 - Critical,Corporate Functions,EMEA
+AST-00637,Tier 3 - Standard,Retail Banking,NA
+AST-00638,Tier 3 - Standard,Retail Banking,APAC
+AST-00639,Tier 3 - Standard,Fund Services,EMEA
+AST-00640,Tier 2 - High,Fund Services,EMEA
+AST-00641,Tier 3 - Standard,Retail Banking,APAC
+AST-00642,Tier 2 - High,Technology,APAC
+AST-00643,Tier 3 - Standard,Asset Servicing,NA
+AST-00644,Tier 2 - High,Asset Servicing,NA
+AST-00645,Tier 3 - Standard,Asset Servicing,NA
+AST-00646,Tier 3 - Standard,Global Markets,NA
+AST-00647,Tier 2 - High,Asset Servicing,EMEA
+AST-00648,Tier 3 - Standard,Global Markets,APAC
+AST-00649,Tier 2 - High,Asset Servicing,APAC
+AST-00650,Tier 1 - Critical,Retail Banking,EMEA
+AST-00651,Tier 2 - High,Global Markets,EMEA
+AST-00652,Tier 3 - Standard,Fund Services,APAC
+AST-00653,Tier 3 - Standard,Fund Services,APAC
+AST-00654,Tier 3 - Standard,Global Markets,NA
+AST-00655,Tier 2 - High,Asset Servicing,EMEA
+AST-00656,Tier 3 - Standard,Fund Services,APAC
+AST-00657,Tier 2 - High,Fund Services,NA
+AST-00658,Tier 3 - Standard,Fund Services,NA
+AST-00659,Tier 3 - Standard,Technology,APAC
+AST-00660,Tier 3 - Standard,Fund Services,APAC
+AST-00661,Tier 3 - Standard,Technology,APAC
+AST-00662,Tier 3 - Standard,Global Markets,EMEA
+AST-00663,Tier 3 - Standard,Global Markets,NA
+AST-00664,Tier 3 - Standard,Asset Servicing,NA
+AST-00665,Tier 2 - High,Asset Servicing,EMEA
+AST-00666,Tier 3 - Standard,Fund Services,EMEA
+AST-00667,Tier 1 - Critical,Fund Services,EMEA
+AST-00668,Tier 2 - High,Fund Services,EMEA
+AST-00669,Tier 1 - Critical,Asset Servicing,NA
+AST-00670,Tier 3 - Standard,Global Markets,EMEA
+AST-00671,Tier 3 - Standard,Asset Servicing,NA
+AST-00672,Tier 2 - High,Technology,NA
+AST-00673,Tier 3 - Standard,Asset Servicing,NA
+AST-00674,Tier 3 - Standard,Retail Banking,NA
+AST-00675,Tier 3 - Standard,Corporate Functions,APAC
+AST-00676,Tier 3 - Standard,Technology,NA
+AST-00677,Tier 2 - High,Technology,NA
+AST-00678,Tier 3 - Standard,Retail Banking,EMEA
+AST-00679,Tier 2 - High,Asset Servicing,EMEA
+AST-00680,Tier 2 - High,Retail Banking,NA
+AST-00681,Tier 3 - Standard,Asset Servicing,NA
+AST-00682,Tier 3 - Standard,Corporate Functions,NA
+AST-00683,Tier 3 - Standard,Asset Servicing,EMEA
+AST-00684,Tier 3 - Standard,Retail Banking,NA
+AST-00685,Tier 3 - Standard,Corporate Functions,NA
+AST-00686,Tier 2 - High,Retail Banking,NA
+AST-00687,Tier 2 - High,Asset Servicing,EMEA
+AST-00688,Tier 2 - High,Retail Banking,NA
+AST-00689,Tier 2 - High,Retail Banking,APAC
+AST-00690,Tier 3 - Standard,Global Markets,NA
+AST-00691,Tier 2 - High,Technology,EMEA
+AST-00692,Tier 3 - Standard,Fund Services,NA
+AST-00693,Tier 3 - Standard,Retail Banking,NA
+AST-00694,Tier 3 - Standard,Retail Banking,NA
+AST-00695,Tier 3 - Standard,Global Markets,APAC
+AST-00696,Tier 3 - Standard,Corporate Functions,APAC
+AST-00697,Tier 3 - Standard,Fund Services,NA
+AST-00698,Tier 3 - Standard,Fund Services,NA
+AST-00699,Tier 3 - Standard,Global Markets,APAC
+AST-00700,Tier 3 - Standard,Asset Servicing,EMEA
+AST-00701,Tier 3 - Standard,Retail Banking,NA
+AST-00702,Tier 2 - High,Retail Banking,NA
+AST-00703,Tier 3 - Standard,Retail Banking,EMEA
+AST-00704,Tier 2 - High,Technology,EMEA
+AST-00705,Tier 3 - Standard,Asset Servicing,EMEA
+AST-00706,Tier 3 - Standard,Fund Services,APAC
+AST-00707,Tier 3 - Standard,Corporate Functions,EMEA
+AST-00708,Tier 3 - Standard,Corporate Functions,NA
+AST-00709,Tier 1 - Critical,Global Markets,EMEA
+AST-00710,Tier 3 - Standard,Fund Services,NA
+AST-00711,Tier 2 - High,Retail Banking,NA
+AST-00712,Tier 1 - Critical,Retail Banking,NA
+AST-00713,Tier 2 - High,Global Markets,NA
+AST-00714,Tier 1 - Critical,Global Markets,EMEA
+AST-00715,Tier 3 - Standard,Corporate Functions,NA
+AST-00716,Tier 3 - Standard,Fund Services,NA
+AST-00717,Tier 2 - High,Corporate Functions,EMEA
+AST-00718,Tier 1 - Critical,Asset Servicing,EMEA
+AST-00719,Tier 2 - High,Asset Servicing,EMEA
+AST-00720,Tier 3 - Standard,Fund Services,APAC
+AST-00721,Tier 1 - Critical,Asset Servicing,EMEA
+AST-00722,Tier 3 - Standard,Corporate Functions,NA
+AST-00723,Tier 2 - High,Corporate Functions,EMEA
+AST-00724,Tier 2 - High,Fund Services,EMEA
+AST-00725,Tier 3 - Standard,Fund Services,NA
+AST-00726,Tier 3 - Standard,Global Markets,NA
+AST-00727,Tier 1 - Critical,Asset Servicing,NA
+AST-00728,Tier 2 - High,Global Markets,EMEA
+AST-00729,Tier 3 - Standard,Global Markets,NA
+AST-00730,Tier 1 - Critical,Asset Servicing,NA
+AST-00731,Tier 3 - Standard,Corporate Functions,APAC
+AST-00732,Tier 3 - Standard,Asset Servicing,APAC
+AST-00733,Tier 2 - High,Corporate Functions,NA
+AST-00734,Tier 3 - Standard,Fund Services,APAC
+AST-00735,Tier 3 - Standard,Technology,NA
+AST-00736,Tier 3 - Standard,Retail Banking,APAC
+AST-00737,Tier 2 - High,Fund Services,APAC
+AST-00738,Tier 2 - High,Retail Banking,NA
+AST-00739,Tier 2 - High,Global Markets,EMEA
+AST-00740,Tier 3 - Standard,Asset Servicing,APAC
+AST-00741,Tier 3 - Standard,Retail Banking,APAC
+AST-00742,Tier 2 - High,Asset Servicing,APAC
+AST-00743,Tier 2 - High,Retail Banking,EMEA
+AST-00744,Tier 3 - Standard,Fund Services,NA
+AST-00745,Tier 1 - Critical,Retail Banking,APAC
+AST-00746,Tier 3 - Standard,Global Markets,EMEA
+AST-00747,Tier 3 - Standard,Fund Services,EMEA
+AST-00748,Tier 2 - High,Technology,NA
+AST-00749,Tier 1 - Critical,Technology,EMEA
+AST-00750,Tier 2 - High,Retail Banking,NA
+AST-00751,Tier 3 - Standard,Technology,EMEA
+AST-00752,Tier 1 - Critical,Corporate Functions,NA
+AST-00753,Tier 2 - High,Asset Servicing,EMEA
+AST-00754,Tier 1 - Critical,Global Markets,APAC
+AST-00755,Tier 2 - High,Technology,EMEA
+AST-00756,Tier 3 - Standard,Global Markets,EMEA
+AST-00757,Tier 2 - High,Asset Servicing,NA
+AST-00758,Tier 3 - Standard,Technology,APAC
+AST-00759,Tier 3 - Standard,Technology,EMEA
+AST-00760,Tier 3 - Standard,Technology,NA
+AST-00761,Tier 1 - Critical,Technology,NA
+AST-00762,Tier 3 - Standard,Technology,NA
+AST-00763,Tier 3 - Standard,Global Markets,EMEA
+AST-00764,Tier 2 - High,Asset Servicing,APAC
+AST-00765,Tier 3 - Standard,Corporate Functions,EMEA
+AST-00766,Tier 3 - Standard,Asset Servicing,NA
+AST-00767,Tier 2 - High,Global Markets,APAC
+AST-00768,Tier 3 - Standard,Corporate Functions,NA
+AST-00769,Tier 3 - Standard,Technology,APAC
+AST-00770,Tier 3 - Standard,Asset Servicing,NA
+AST-00771,Tier 3 - Standard,Asset Servicing,EMEA
+AST-00772,Tier 3 - Standard,Fund Services,APAC
+AST-00773,Tier 3 - Standard,Retail Banking,NA
+AST-00774,Tier 2 - High,Corporate Functions,EMEA
+AST-00775,Tier 3 - Standard,Fund Services,APAC
+AST-00776,Tier 3 - Standard,Corporate Functions,NA
+AST-00777,Tier 2 - High,Global Markets,NA
+AST-00778,Tier 3 - Standard,Fund Services,EMEA
+AST-00779,Tier 2 - High,Global Markets,NA
+AST-00780,Tier 1 - Critical,Fund Services,NA
+AST-00781,Tier 1 - Critical,Global Markets,EMEA
+AST-00782,Tier 2 - High,Retail Banking,EMEA
+AST-00783,Tier 1 - Critical,Corporate Functions,NA
+AST-00784,Tier 2 - High,Retail Banking,NA
+AST-00785,Tier 3 - Standard,Technology,APAC
+AST-00786,Tier 3 - Standard,Corporate Functions,EMEA
+AST-00787,Tier 3 - Standard,Global Markets,APAC
+AST-00788,Tier 2 - High,Global Markets,NA
+AST-00789,Tier 3 - Standard,Corporate Functions,APAC
+AST-00790,Tier 3 - Standard,Asset Servicing,EMEA
+AST-00791,Tier 2 - High,Asset Servicing,NA
+AST-00792,Tier 2 - High,Global Markets,APAC
+AST-00793,Tier 3 - Standard,Asset Servicing,EMEA
+AST-00794,Tier 2 - High,Fund Services,NA
+AST-00795,Tier 3 - Standard,Retail Banking,NA
+AST-00796,Tier 3 - Standard,Fund Services,EMEA
+AST-00797,Tier 1 - Critical,Global Markets,NA
+AST-00798,Tier 1 - Critical,Corporate Functions,NA
+AST-00799,Tier 3 - Standard,Retail Banking,NA
+AST-00800,Tier 3 - Standard,Global Markets,NA
