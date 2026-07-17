@@ -1,0 +1,531 @@
+{
+  "kpi": {
+    "total_alerts": 12324,
+    "fp_rate": 28.6,
+    "avg_triage_min": 834.4,
+    "sla_breach_rate": 43.5
+  },
+  "daily_trend": [
+    {
+      "date": "2026-04-16",
+      "count": 124
+    },
+    {
+      "date": "2026-04-17",
+      "count": 137
+    },
+    {
+      "date": "2026-04-18",
+      "count": 143
+    },
+    {
+      "date": "2026-04-19",
+      "count": 235
+    },
+    {
+      "date": "2026-04-20",
+      "count": 135
+    },
+    {
+      "date": "2026-04-21",
+      "count": 125
+    },
+    {
+      "date": "2026-04-22",
+      "count": 146
+    },
+    {
+      "date": "2026-04-23",
+      "count": 132
+    },
+    {
+      "date": "2026-04-24",
+      "count": 124
+    },
+    {
+      "date": "2026-04-25",
+      "count": 139
+    },
+    {
+      "date": "2026-04-26",
+      "count": 117
+    },
+    {
+      "date": "2026-04-27",
+      "count": 150
+    },
+    {
+      "date": "2026-04-28",
+      "count": 136
+    },
+    {
+      "date": "2026-04-29",
+      "count": 135
+    },
+    {
+      "date": "2026-04-30",
+      "count": 133
+    },
+    {
+      "date": "2026-05-01",
+      "count": 117
+    },
+    {
+      "date": "2026-05-02",
+      "count": 129
+    },
+    {
+      "date": "2026-05-03",
+      "count": 130
+    },
+    {
+      "date": "2026-05-04",
+      "count": 135
+    },
+    {
+      "date": "2026-05-05",
+      "count": 125
+    },
+    {
+      "date": "2026-05-06",
+      "count": 116
+    },
+    {
+      "date": "2026-05-07",
+      "count": 127
+    },
+    {
+      "date": "2026-05-08",
+      "count": 261
+    },
+    {
+      "date": "2026-05-09",
+      "count": 144
+    },
+    {
+      "date": "2026-05-10",
+      "count": 152
+    },
+    {
+      "date": "2026-05-11",
+      "count": 140
+    },
+    {
+      "date": "2026-05-12",
+      "count": 150
+    },
+    {
+      "date": "2026-05-13",
+      "count": 122
+    },
+    {
+      "date": "2026-05-14",
+      "count": 139
+    },
+    {
+      "date": "2026-05-15",
+      "count": 145
+    },
+    {
+      "date": "2026-05-16",
+      "count": 151
+    },
+    {
+      "date": "2026-05-17",
+      "count": 146
+    },
+    {
+      "date": "2026-05-18",
+      "count": 120
+    },
+    {
+      "date": "2026-05-19",
+      "count": 130
+    },
+    {
+      "date": "2026-05-20",
+      "count": 124
+    },
+    {
+      "date": "2026-05-21",
+      "count": 138
+    },
+    {
+      "date": "2026-05-22",
+      "count": 110
+    },
+    {
+      "date": "2026-05-23",
+      "count": 139
+    },
+    {
+      "date": "2026-05-24",
+      "count": 142
+    },
+    {
+      "date": "2026-05-25",
+      "count": 145
+    },
+    {
+      "date": "2026-05-26",
+      "count": 148
+    },
+    {
+      "date": "2026-05-27",
+      "count": 124
+    },
+    {
+      "date": "2026-05-28",
+      "count": 148
+    },
+    {
+      "date": "2026-05-29",
+      "count": 107
+    },
+    {
+      "date": "2026-05-30",
+      "count": 122
+    },
+    {
+      "date": "2026-05-31",
+      "count": 154
+    },
+    {
+      "date": "2026-06-01",
+      "count": 143
+    },
+    {
+      "date": "2026-06-02",
+      "count": 148
+    },
+    {
+      "date": "2026-06-03",
+      "count": 135
+    },
+    {
+      "date": "2026-06-04",
+      "count": 135
+    },
+    {
+      "date": "2026-06-05",
+      "count": 129
+    },
+    {
+      "date": "2026-06-06",
+      "count": 137
+    },
+    {
+      "date": "2026-06-07",
+      "count": 129
+    },
+    {
+      "date": "2026-06-08",
+      "count": 140
+    },
+    {
+      "date": "2026-06-09",
+      "count": 131
+    },
+    {
+      "date": "2026-06-10",
+      "count": 275
+    },
+    {
+      "date": "2026-06-11",
+      "count": 122
+    },
+    {
+      "date": "2026-06-12",
+      "count": 121
+    },
+    {
+      "date": "2026-06-13",
+      "count": 139
+    },
+    {
+      "date": "2026-06-14",
+      "count": 147
+    },
+    {
+      "date": "2026-06-15",
+      "count": 117
+    },
+    {
+      "date": "2026-06-16",
+      "count": 136
+    },
+    {
+      "date": "2026-06-17",
+      "count": 138
+    },
+    {
+      "date": "2026-06-18",
+      "count": 130
+    },
+    {
+      "date": "2026-06-19",
+      "count": 135
+    },
+    {
+      "date": "2026-06-20",
+      "count": 134
+    },
+    {
+      "date": "2026-06-21",
+      "count": 128
+    },
+    {
+      "date": "2026-06-22",
+      "count": 141
+    },
+    {
+      "date": "2026-06-23",
+      "count": 147
+    },
+    {
+      "date": "2026-06-24",
+      "count": 124
+    },
+    {
+      "date": "2026-06-25",
+      "count": 124
+    },
+    {
+      "date": "2026-06-26",
+      "count": 134
+    },
+    {
+      "date": "2026-06-27",
+      "count": 119
+    },
+    {
+      "date": "2026-06-28",
+      "count": 142
+    },
+    {
+      "date": "2026-06-29",
+      "count": 110
+    },
+    {
+      "date": "2026-06-30",
+      "count": 139
+    },
+    {
+      "date": "2026-07-01",
+      "count": 137
+    },
+    {
+      "date": "2026-07-02",
+      "count": 117
+    },
+    {
+      "date": "2026-07-03",
+      "count": 129
+    },
+    {
+      "date": "2026-07-04",
+      "count": 157
+    },
+    {
+      "date": "2026-07-05",
+      "count": 109
+    },
+    {
+      "date": "2026-07-06",
+      "count": 124
+    },
+    {
+      "date": "2026-07-07",
+      "count": 137
+    },
+    {
+      "date": "2026-07-08",
+      "count": 136
+    },
+    {
+      "date": "2026-07-09",
+      "count": 118
+    },
+    {
+      "date": "2026-07-10",
+      "count": 116
+    },
+    {
+      "date": "2026-07-11",
+      "count": 113
+    },
+    {
+      "date": "2026-07-12",
+      "count": 129
+    },
+    {
+      "date": "2026-07-13",
+      "count": 128
+    },
+    {
+      "date": "2026-07-14",
+      "count": 154
+    }
+  ],
+  "anomalies": [
+    {
+      "alert_date": "2026-05-08",
+      "count": 261
+    },
+    {
+      "alert_date": "2026-06-10",
+      "count": 275
+    }
+  ],
+  "severity_totals": {
+    "Critical": 759,
+    "High": 2330,
+    "Medium": 5207,
+    "Low": 4028
+  },
+  "source_summary": [
+    {
+      "source_system": "SIEM",
+      "total": 3842,
+      "fp_rate": 28.7,
+      "avg_triage": 815.3,
+      "sla_breach": 43.6
+    },
+    {
+      "source_system": "EDR",
+      "total": 2624,
+      "fp_rate": 29.2,
+      "avg_triage": 853.3,
+      "sla_breach": 43.6
+    },
+    {
+      "source_system": "Email Gateway",
+      "total": 2181,
+      "fp_rate": 27.9,
+      "avg_triage": 819.4,
+      "sla_breach": 43.7
+    },
+    {
+      "source_system": "Firewall",
+      "total": 1995,
+      "fp_rate": 29.2,
+      "avg_triage": 866.3,
+      "sla_breach": 42.1
+    },
+    {
+      "source_system": "Cloud Access Security (CASB)",
+      "total": 965,
+      "fp_rate": 28.1,
+      "avg_triage": 851.5,
+      "sla_breach": 44.8
+    },
+    {
+      "source_system": "IDS/IPS",
+      "total": 717,
+      "fp_rate": 27.6,
+      "avg_triage": 801.4,
+      "sla_breach": 43.4
+    }
+  ],
+  "shift_perf": [
+    {
+      "analyst_shift": "Day",
+      "alerts": 3542,
+      "sla_breach": 42.8
+    },
+    {
+      "analyst_shift": "Evening",
+      "alerts": 5299,
+      "sla_breach": 44.0
+    },
+    {
+      "analyst_shift": "Night",
+      "alerts": 3483,
+      "sla_breach": 43.3
+    }
+  ],
+  "bu_risk": [
+    {
+      "business_unit": "Global Markets",
+      "alert_count": 2177
+    },
+    {
+      "business_unit": "Asset Servicing",
+      "alert_count": 2094
+    },
+    {
+      "business_unit": "Technology",
+      "alert_count": 2035
+    },
+    {
+      "business_unit": "Corporate Functions",
+      "alert_count": 2017
+    },
+    {
+      "business_unit": "Retail Banking",
+      "alert_count": 2013
+    },
+    {
+      "business_unit": "Fund Services",
+      "alert_count": 1988
+    }
+  ],
+  "crit_asset_risk": [
+    {
+      "business_unit": "Global Markets",
+      "pct_high_or_critical": 31.0
+    },
+    {
+      "business_unit": "Fund Services",
+      "pct_high_or_critical": 27.5
+    },
+    {
+      "business_unit": "Technology",
+      "pct_high_or_critical": 25.5
+    },
+    {
+      "business_unit": "Corporate Functions",
+      "pct_high_or_critical": 23.6
+    },
+    {
+      "business_unit": "Asset Servicing",
+      "pct_high_or_critical": 22.9
+    },
+    {
+      "business_unit": "Retail Banking",
+      "pct_high_or_critical": 22.7
+    }
+  ],
+  "top_breach_analysts": [
+    {
+      "assigned_analyst": "Analyst_01",
+      "analyst_shift": "Evening",
+      "alerts_triaged": 868,
+      "sla_breach_rate_pct": 46.5
+    },
+    {
+      "assigned_analyst": "Analyst_03",
+      "analyst_shift": "Night",
+      "alerts_triaged": 855,
+      "sla_breach_rate_pct": 44.4
+    },
+    {
+      "assigned_analyst": "Analyst_08",
+      "analyst_shift": "Evening",
+      "alerts_triaged": 875,
+      "sla_breach_rate_pct": 44.1
+    },
+    {
+      "assigned_analyst": "Analyst_14",
+      "analyst_shift": "Night",
+      "alerts_triaged": 869,
+      "sla_breach_rate_pct": 44.0
+    },
+    {
+      "assigned_analyst": "Analyst_07",
+      "analyst_shift": "Evening",
+      "alerts_triaged": 907,
+      "sla_breach_rate_pct": 44.0
+    }
+  ]
+}
